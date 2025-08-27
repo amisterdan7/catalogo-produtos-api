@@ -1,1 +1,0 @@
-java -jar target/catalogo-produtos-0.0.1-SNAPSHOT.jar
